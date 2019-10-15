@@ -1,6 +1,6 @@
 heello
 class HelloGit{
-main(){
+public static void main(String argss){
 
 
 sysout("asdfasdf")}
